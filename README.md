@@ -79,3 +79,20 @@ Proporcionar herramientas para el análisis de contenido narrativo
 
 NetworkX por proporcionar las herramientas de análisis de redes
 Comunidad de Python por el desarrollo y mantenimiento de las bibliotecas utilizadas
+
+
+## Preparación de Datos
+
+Este proyecto requiere el guión de Joker (2019) en formato PDF. Por razones de derechos de autor, el guión no se incluye en este repositorio.
+
+### Configuración:
+1. Obtenga una copia legal del guión
+2. Renombre el archivo a `joker_new_final.pdf`
+3. Colóquelo en la carpeta `data/`
+4. Verifique que el archivo sea legible y el texto sea seleccionable
+
+### Estructura de datos esperada:
+```text
+data/
+├── joker_new_final.pdf
+└── README.md
