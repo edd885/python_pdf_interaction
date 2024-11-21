@@ -14,7 +14,7 @@ Para ejecutar este análisis, necesitarás:
 
 ## Cómo Obtener el Guión
 1. Para fines educativos, pueden encontrarse guiones en:
-   - [https://imsdb.com/] por ejemplo
+   - [https://imdb.com/] por ejemplo
    
 2. Formato requerido:
    - PDF con texto seleccionable
